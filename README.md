@@ -10,4 +10,3 @@ These are some following changes:-
 4. this is fourth change
 5. this is fifth change.
 6. asdfasdfasdfasddf
-7. this is the 7th change.
