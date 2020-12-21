@@ -1,7 +1,7 @@
-#Demo Project README
+# Demo Project README
 this is a simple readme file.
-##this is the 2nd heading
-###this is the 3rd heading.
+## this is the 2nd heading
+### this is the 3rd heading.
 
 These are some following changes:-
 1. this is first changes
@@ -18,3 +18,4 @@ This is the ulitmate change.
 No this is not ultimate change.
 kangana tera ni sanu kare ishaare.
 gal mithi mithi bol.
+12. I am now adding 12th line.
